@@ -1,0 +1,32 @@
+PALAVRAS - PROFISSOES
+
+package com.usmaan.hangman
+
+object Palavras {
+    val words = listOf(
+                "Apicultor",
+                "Auditor",
+                "Bartender",
+                "Cerimonialista",
+                "Chef",
+                "Coach",
+                "Desembargador",
+                "Despachante",
+                "Endocrinologista",
+                "Embaixador",
+                "Gerentólogo",
+                "Headhunter",
+                "Intérprete",
+                "Juiz",
+                "Nanotecnólogo",
+                "Nutrólogo",
+                "Pizzaiolo",
+                "Perito",
+                "Quiroprata",
+                "Roteirizador",
+                "Silvicultor",
+                "Trader",
+                "Taquígrafo",
+                "Turismólogo"
+    )
+}

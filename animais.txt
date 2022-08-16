@@ -1,0 +1,130 @@
+PROFISSOES
+Apicultor
+Agrônomo
+Auditor
+Bartender
+Cerimonialista
+Chef
+Coach
+Desembargador
+Despachante
+Endocrinologista
+Embaixador
+Gerentólogo
+Headhunter
+Intérprete
+Juiz
+Nanotecnólogo
+Nutrólogo
+Pizzaiolo
+Perito
+Quiroprata
+Roteirizador
+Silvicultor
+Trader
+Taquígrafo
+Turismólogo
+
+ANIMAIS
+
+Albatroz
+Alpaca
+Anchova
+Bacalhau
+Badejo
+Barracuda
+Beluga
+Cágado
+Chinchila
+Craca
+Dromedário
+Escaravelho
+Gerbo
+Gnu
+Gralha
+Hamster
+Lêmure
+Lhama
+Lince
+Marreco
+Melro
+Ocapi
+Ouriço
+Pelicano
+Percevejo
+Pirilampo
+Quati
+Rouxinol
+Sanguessuga
+Surucucu
+Tapir
+Texugo
+Vison
+Zebu
+
+FRUTAS
+
+Abricó
+Alfarroba
+Bergamota
+Ciriguela
+Cranberry
+Dendê
+Feijoa
+Groselha
+Imbu
+Jenipapo
+Kiwi
+Lichia
+Mexerica
+Nectarina
+Nêspera
+Pequi
+Pistache
+Pomelo
+Puçá
+Saguaraji
+
+
+
+
+
+package com.usmaan.hangman
+
+object Palavras_Animais {
+    val animais = listOf("Albatroz",
+    "Alpaca",
+    "Anchova",
+    "Bacalhau",
+    "Badejo",
+    "Barracuda",
+    "Beluga",
+    "Cágado",
+    "Chinchila",
+    "Craca",
+    "Dromedário",
+    "Escaravelho",
+    "Gerbo",
+    "Gnu",
+    "Gralha",
+    "Hamster",
+    "Lêmure",
+    "Lhama",
+    "Lince",
+    "Marreco",
+    "Melro",
+    "Ocapi",
+    "Ouriço",
+    "Pelicano",
+    "Percevejo",
+    "Pirilampo",
+    "Quati",
+    "Rouxinol",
+    "Sanguessuga",
+    "Surucucu",
+    "Tapir",
+    "Texugo",
+    "Vison",
+    "Zebu"
+    )
+}
